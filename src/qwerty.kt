@@ -27,6 +27,8 @@ class WalletBuilder {
     var initialBalance: Double = 0.0
 }
 
+
+
 // 5. основной класс — smart wallet
 class SmartWallet private constructor(
     val owner: String?,
